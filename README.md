@@ -27,6 +27,8 @@ Za darmo · bez konta · działa w przeglądarce na telefonie i komputerze, tak�
 
 ## Co potrafi
 
+**Niezapominajka: Twoja lista algorytmów do nauki.** Zbierasz algorytmy, których się uczysz albo które Ci uciekają: jednym dotknięciem kwiatka przy przypadku, całym zestawem albo z wyszukiwarki. Na liście każdy ma diagram i Twój główny algorytm (także własny), a całość wydrukujesz albo zapiszesz jako PDF i powiesisz nad biurkiem. Jest w dolnym pasku, zawsze pod ręką.
+
 **Stoper jak csTimer, po polsku.** Scramble WCA dla 12 konkurencji, Clock i 3BLD, inspekcja 15 s, +2 i DNF, ao5, ao12, ao100 i wykres. Ćwiczenie białego krzyża i Cross+1 pokazuje najkrótsze możliwe rozwiązanie.
 
 <img src="images/timer.webp" alt="Stoper: duży scramble i czas, obok tabela średnich, wykres i ostatnie ułożenia" width="860">
@@ -45,8 +47,6 @@ Za darmo · bez konta · działa w przeglądarce na telefonie i komputerze, tak�
 
 <img src="images/stats.webp" alt="Statystyki: liczby z 30 dni, wykres dzień po dniu, kalendarz aktywności" width="860">
 
-**Niezapominajka.** Twoja lista algorytmów z diagramami, gotowa do wydruku albo zapisania jako PDF.
-
 ## Twoje dane zostają u Ciebie
 
 Nie ma kont. Czasy, odznaki i postęp są zapisane w pamięci przeglądarki na Twoim urządzeniu i nie trafiają na żaden serwer. Na inne urządzenie przeniesiesz je kodem QR, linkiem albo plikiem kopii.
@@ -63,7 +63,7 @@ W aplikacji: menu „Więcej” → **„Oceń aplikację”**. Możesz też za�
 
 ## English
 
-**CubeKnowlage** is a free speedcubing web app (currently in Polish, English version in progress): a csTimer-style timer with WCA scrambles for 12 events, an algorithm library (PLL, OLL, F2L, 2-look, one-handed, 2x2 Ortega, 4x4/5x5 parity) with diagrams, recognition tips, triggers and 3D animation, spaced-repetition flashcards, daily practice plans, beginner methods for all 12 Guildford Challenge events, stats and badges. No account: everything stays in your browser and can be moved to another device with a QR code. Works offline when added to the home screen.
+**CubeKnowlage** is a free speedcubing web app (currently in Polish, English version in progress): a csTimer-style timer with WCA scrambles for 12 events, your own printable list of algorithms to learn, an algorithm library (PLL, OLL, F2L, 2-look, one-handed, 2x2 Ortega, 4x4/5x5 parity) with diagrams, recognition tips, triggers and 3D animation, spaced-repetition flashcards, daily practice plans, beginner methods for all 12 Guildford Challenge events, stats and badges. No account: everything stays in your browser and can be moved to another device with a QR code. Works offline when added to the home screen.
 
 **[Open the app: cubeknowlage.com](https://cubeknowlage.com)**
 
